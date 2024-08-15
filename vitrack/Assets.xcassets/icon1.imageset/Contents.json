@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "black-and-white-stockportable-network-account-icon-11553436383dwuayhjyvo.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
